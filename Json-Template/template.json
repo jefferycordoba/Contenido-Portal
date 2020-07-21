@@ -1,0 +1,140 @@
+{
+    "entry": {
+        "title": {
+            "lang": "en",
+            "value": "Prueba Movilidad"
+        },
+        "summary": {
+            "lang": "en",
+            "value": "desct"            
+        },
+        "name": "PruebaDos",
+        "type": "Content",
+        "updated": "Mon, 20 Jul 2020 04:21:47.115Z",
+        "created": "Mon, 20 Jul 2020 04:21:47.115Z",
+        "author": [
+            {
+                "distinguishedName": "uid=bigbangadm,cn=users,dc=bancolombia,dc=com",
+                "uri": "/mycontenthandler/!ut/p/digest!9bwJlOIbqWFLwsZ7hPqMbw/um/users/profiles/Z9eAe1JP8JRKCHPO0JMCCN1D4JM46GPCIJM07OPC2MM4CN9PEJP06M9DCJSGCK1",
+                "name": "Big"
+            }
+        ],
+        "owner": [
+            {
+                "distinguishedName": "uid=bigbangadm,cn=users,dc=bancolombia,dc=com",
+                "uri": "/mycontenthandler/!ut/p/digest!9bwJlOIbqWFLwsZ7hPqMbw/um/users/profiles/Z9eAe1JP8JRKCHPO0JMCCN1D4JM46GPCIJM07OPC2MM4CN9PEJP06M9DCJSGCK1",
+                "name": "Big"
+            }
+        ],
+        "creator": {
+            "distinguishedName": "uid=bigbangadm,cn=users,dc=bancolombia,dc=com",
+            "uri": "/mycontenthandler/!ut/p/digest!9bwJlOIbqWFLwsZ7hPqMbw/um/users/profiles/Z9eAe1JP8JRKCHPO0JMCCN1D4JM46GPCIJM07OPC2MM4CN9PEJP06M9DCJSGCK1",
+            "name": "Big"
+        },
+        "profile": {},
+        "workflow": {},
+        "link": [
+            {
+                "rel": "library",
+                "href": "/mycontenthandler/!ut/p/digest!9bwJlOIbqWFLwsZ7hPqMbw/wcmrest/Library/cc892851-89dd-4804-ab4a-b4ad6a88352e",
+                "lang": "en",
+                "label": "Library"
+            },
+            {
+                "rel": "parent",
+                "href": "/mycontenthandler/!ut/p/digest!9bwJlOIbqWFLwsZ7hPqMbw/wcmrest/SiteArea/81790d7a-e91e-4f14-884d-ecc9e24b75fa",
+                "lang": "en",
+                "label": "Parent"
+            },            
+            {
+                "rel": "preview",
+                "href": "/poc/!ut/p/digest!9bwJlOIbqWFLwsZ7hPqMbw/wcm/oid:06841c97-1fd6-45a7-b757-83a6f4549c5e?previewopt=isdraft&previewopt=true&previewopt=wcmitemid&previewopt=06841c97-1fd6-45a7-b757-83a6f4549c5e",
+                "lang": "en",
+                "label": "Preview"
+            },
+            {
+                "rel": "workflow",
+                "href": "/mycontenthandler/!ut/p/digest!9bwJlOIbqWFLwsZ7hPqMbw/wcmrest/Workflow/0c97e383-1c38-4400-b194-952b46041ac4",
+                "lang": "en",
+                "label": "Workflow"
+            },
+            {
+                "rel": "content-template",
+                "href": "/mycontenthandler/!ut/p/digest!9bwJlOIbqWFLwsZ7hPqMbw/wcmrest/ContentTemplate/16147970-72ee-425c-a243-e4d16c3b175d",
+                "lang": "en",
+                "label": "Content Template"
+            }
+        ],
+        "content": {
+            "type": "application/vnd.ibm.wcm+xml",
+            "content": {
+                "elements": {
+                    "element": [
+                        {
+                            "name": "rt_dtoMovilTxtsubOpcionMov",
+                            "title": {
+                                "lang": "en",
+                                "value": "Informacion Leyenda"
+                            },
+                            "type": "RichTextComponent",
+                            "data": {
+                                "type": "text/html",
+                                "value": "<pre dir=\"ltr\">\nCompra una moto BMW o de un valor mayor a los $15 millones con nuestros planes de pago flexibles.</pre>\n\n<header dir=\"ltr\"><a href=\"/personas\" target=\"_self\" title=\"\">Vamos al Home!!!!</a></header>\n"
+                            }
+                        },
+                        {
+                            "name": "so_dtoMovilTxtsubOpcionMov",
+                            "title": {
+                                "lang": "en",
+                                "value": "SubOpcion Movilidad"
+                            },
+                            "type": "OptionSelectionComponent",
+                            "data": {
+                                "type": "application/vnd.ibm.wcm+xml",
+                                "optionselection": {
+                                    "displaytype": "PopupSelectionWithDescendents",
+                                    "selection": "RestrictedCategory",
+                                    "options": {
+                                        "mode": "Multiselect",
+                                        "option": [
+                                            {
+                                                "selected": false,
+                                                "category": "/mycontenthandler/!ut/p/digest!9bwJlOIbqWFLwsZ7hPqMbw/wcmrest/Category/c31b574a-569e-4a7a-bbe0-ea577bd9f27d",
+                                                "value": "/BancolombiaDiseno/Movilidad/Sub Opciones"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "name": "cr_dtoMovilIconsubOpcionMov",
+                            "title": {
+                                "lang": "en",
+                                "value": "Icono de subOpcion"
+                            },
+                            "type": "ReferenceComponent",
+                            "data": {
+                                "type": "application/vnd.ibm.wcm+xml",
+                                "reference": ""
+                            }
+                        },
+                        {
+                            "name": "cr_dtoMovilsubTarjMov",
+                            "title": {
+                                "lang": "en",
+                                "value": "Servicio de Tarjetas"
+                            },
+                            "type": "ReferenceComponent",
+                            "data": {
+                                "type": "application/vnd.ibm.wcm+xml",
+                                "reference": ""
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}
+

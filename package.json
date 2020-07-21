@@ -1,0 +1,16 @@
+{
+  "name": "contenido-portal",
+  "version": "1.0.0",
+  "description": "proyecto para crear contenido en portal a partir de archivos de excel utilizando sus API's",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "convert-excel-to-json": "^1.7.0",
+    "write": "^2.0.0"
+  }
+}

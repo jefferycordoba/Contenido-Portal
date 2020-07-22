@@ -1,7 +1,7 @@
 'use strict';
 const excelToJson = require('convert-excel-to-json');
 const fs = require('fs');
-const jsonTemplate = require('../Json-Template/template.json');
+const jsonTemplate =  require('../Json-Template/template.json');
 
 let getJsonFromExcel = (filePath, header, rangeBegin, RangeFinal) => {
 
@@ -33,12 +33,12 @@ let visualizeJsonInConsole = (dataJson) =>  {
 }
 
 let mappingJsonAttributes = (dataJson) => {
+    
     let JsonContent = [];
     dataJson.forEach(obj => {
         let templateJson = jsonTemplate;
-        templateJson.entry.title.value = obj.CATEGORIAS
+        templateJson[0].entry.name = obj.CATEGORÍAS;
         JsonContent.push(templateJson);
-        
     });
     return JsonContent;
 }

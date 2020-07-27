@@ -1,0 +1,6737 @@
+{
+    "displayFieldName": "CODIGO",
+    "fieldAliases": {
+        "NOMBRE": "Nombre",
+        "CODIGO": "CODIGO"
+    },
+    "fields": [
+        {
+            "name": "NOMBRE",
+            "type": "esriFieldTypeString",
+            "alias": "Nombre",
+            "length": 30
+        },
+        {
+            "name": "CODIGO",
+            "type": "esriFieldTypeString",
+            "alias": "CODIGO",
+            "length": 5
+        }
+    ],
+    "features": [
+        {
+            "attributes": {
+                "NOMBRE": "CABRERA",
+                "CODIGO": "68121"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "INÍRIDA",
+                "CODIGO": "94001"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CAMPOALEGRE",
+                "CODIGO": "41132"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PALOCABILDO",
+                "CODIGO": "73520"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "BUCARASICA",
+                "CODIGO": "54109"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CARURU",
+                "CODIGO": "97161"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ARROYOHONDO",
+                "CODIGO": "13062"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "GUACA",
+                "CODIGO": "68318"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "UBAQUE",
+                "CODIGO": "25841"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN BENITO ABAD",
+                "CODIGO": "70678"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN JOSÉ",
+                "CODIGO": "17665"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "POTOSÍ",
+                "CODIGO": "52560"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "FUNES",
+                "CODIGO": "52287"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MANAURE",
+                "CODIGO": "20443"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "EL GUACAMAYO",
+                "CODIGO": "68245"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN VICENTE DEL CAGUÁN",
+                "CODIGO": "18753"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ACACÍAS",
+                "CODIGO": "50006"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CANDELARIA",
+                "CODIGO": "08141"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "UMBITA",
+                "CODIGO": "15842"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LA URIBE",
+                "CODIGO": "50370"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LA ESPERANZA",
+                "CODIGO": "54385"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "EL RETORNO",
+                "CODIGO": "95025"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LA PEÑA",
+                "CODIGO": "25398"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ENCISO",
+                "CODIGO": "68266"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ORTEGA",
+                "CODIGO": "73504"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ENCINO",
+                "CODIGO": "68264"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LEJANÍAS",
+                "CODIGO": "50400"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN MARCOS",
+                "CODIGO": "70708"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "EL ENCANTO",
+                "CODIGO": "91263"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TOLEDO",
+                "CODIGO": "05819"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "BITUIMA",
+                "CODIGO": "25095"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "EL PEÑÓN",
+                "CODIGO": "13268"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PUERTO TEJADA",
+                "CODIGO": "19573"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PIEDRAS",
+                "CODIGO": "73547"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LINARES",
+                "CODIGO": "52411"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SUAN",
+                "CODIGO": "08770"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "YOLOMBÓ",
+                "CODIGO": "05890"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TURMEQUÉ",
+                "CODIGO": "15835"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN FELIPE",
+                "CODIGO": "94883"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "RAGONVALIA",
+                "CODIGO": "54599"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ORITO",
+                "CODIGO": "86320"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PUERTO ALEGRIA",
+                "CODIGO": "91530"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "JAMBALÓ",
+                "CODIGO": "19364"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TIBASOSA",
+                "CODIGO": "15806"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PUERTO WILCHES",
+                "CODIGO": "68575"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ZIPACÓN",
+                "CODIGO": "25898"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MIRAFLORES",
+                "CODIGO": "95200"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PINCHOTE",
+                "CODIGO": "68549"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "VILLA RICA",
+                "CODIGO": "19845"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SABANALARGA",
+                "CODIGO": "85300"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CABRERA",
+                "CODIGO": "25120"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "BECERRIL",
+                "CODIGO": "20045"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CHIMA",
+                "CODIGO": "68176"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "YARUMAL",
+                "CODIGO": "05887"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CAICEDO",
+                "CODIGO": "05125"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LA JAGUA DEL PILAR",
+                "CODIGO": "44420"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CAÑASGORDAS",
+                "CODIGO": "05138"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CONCORDIA",
+                "CODIGO": "05209"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CALARCA",
+                "CODIGO": "63130"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SORA",
+                "CODIGO": "15762"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SABOYÁ",
+                "CODIGO": "15632"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "EL BAGRE",
+                "CODIGO": "05250"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MILÁN",
+                "CODIGO": "18460"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MUTISCUA",
+                "CODIGO": "54480"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "EL DONCELLO",
+                "CODIGO": "18247"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MANTA",
+                "CODIGO": "25436"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "GALÁN",
+                "CODIGO": "68296"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "OICATÁ",
+                "CODIGO": "15500"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "BETÉITIVA",
+                "CODIGO": "15092"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MAPIRIPANA",
+                "CODIGO": "94663"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SURATA",
+                "CODIGO": "68780"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "RIOHACHA",
+                "CODIGO": "44001"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "COTA",
+                "CODIGO": "25214"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "FÚQUENE",
+                "CODIGO": "25288"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SANTACRUZ",
+                "CODIGO": "52699"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SOTARA",
+                "CODIGO": "19760"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LOS ANDES",
+                "CODIGO": "52418"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "VALLEDUPAR",
+                "CODIGO": "20001"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "AIPE",
+                "CODIGO": "41016"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TOCA",
+                "CODIGO": "15814"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN CRISTOBAL",
+                "CODIGO": "13620"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LA GLORIA",
+                "CODIGO": "20383"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN MATEO",
+                "CODIGO": "15673"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LA VICTORIA",
+                "CODIGO": "91430"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN ANDRÉS SOTAVENTO",
+                "CODIGO": "23670"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN JOAQUÍN",
+                "CODIGO": "68682"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "RESTREPO",
+                "CODIGO": "76606"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "GIRARDOT",
+                "CODIGO": "25307"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "FLORENCIA",
+                "CODIGO": "18001"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ESPINAL",
+                "CODIGO": "73268"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "VALPARAÍSO",
+                "CODIGO": "18860"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN PABLO",
+                "CODIGO": "13670"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SOPETRÁN",
+                "CODIGO": "05761"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN MARTÍN",
+                "CODIGO": "50689"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LEGUÍZAMO",
+                "CODIGO": "86573"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PINILLOS",
+                "CODIGO": "13549"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "GRANADA",
+                "CODIGO": "25312"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CERINZA",
+                "CODIGO": "15162"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TAMALAMEQUE",
+                "CODIGO": "20787"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "RONDÓN",
+                "CODIGO": "15621"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "FRESNO",
+                "CODIGO": "73283"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CORRALES",
+                "CODIGO": "15215"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TENZA",
+                "CODIGO": "15798"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "BARBACOAS",
+                "CODIGO": "52079"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "IMUÉS",
+                "CODIGO": "52354"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "QUIMBAYA",
+                "CODIGO": "63594"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ROSAS",
+                "CODIGO": "19622"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LA DORADA",
+                "CODIGO": "17380"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CHÍA",
+                "CODIGO": "25175"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SATIVANORTE",
+                "CODIGO": "15720"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PALESTINA",
+                "CODIGO": "41530"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MEDELLÍN",
+                "CODIGO": "05001"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN ROQUE",
+                "CODIGO": "05670"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LIBORINA",
+                "CODIGO": "05411"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN MIGUEL DE SEMA",
+                "CODIGO": "15676"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CUMARAL",
+                "CODIGO": "50226"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PUERTO CAICEDO",
+                "CODIGO": "86569"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "BARRANCO MINA",
+                "CODIGO": "94343"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PUEBLO RICO",
+                "CODIGO": "66572"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LA PRIMAVERA",
+                "CODIGO": "99524"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SOLITA",
+                "CODIGO": "18785"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "GAMBITA",
+                "CODIGO": "68298"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SABANALARGA",
+                "CODIGO": "08638"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SUCRE",
+                "CODIGO": "70771"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LENGUAZAQUE",
+                "CODIGO": "25407"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "RETIRO",
+                "CODIGO": "05607"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "COCORNÁ",
+                "CODIGO": "05197"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CASTILLA LA NUEVA",
+                "CODIGO": "50150"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MELGAR",
+                "CODIGO": "73449"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MANATÍ",
+                "CODIGO": "08436"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "REPELÓN",
+                "CODIGO": "08606"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "EL ROSARIO",
+                "CODIGO": "52256"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TOLÚ VIEJO",
+                "CODIGO": "70823"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PAEZ",
+                "CODIGO": "19517"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ANGELÓPOLIS",
+                "CODIGO": "05036"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PALMAR",
+                "CODIGO": "68522"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SANTA ROSALÍA",
+                "CODIGO": "99624"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "GUAYATÁ",
+                "CODIGO": "15325"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "BUENAVENTURA",
+                "CODIGO": "76109"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "RÍO DE ORO",
+                "CODIGO": "20614"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "BARRANQUILLA",
+                "CODIGO": "08001"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CHINCHINÁ",
+                "CODIGO": "17174"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CHALÁN",
+                "CODIGO": "70230"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MARMATO",
+                "CODIGO": "17442"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MARULANDA",
+                "CODIGO": "17446"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LA SALINA",
+                "CODIGO": "85136"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SONSON",
+                "CODIGO": "05756"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ABRIAQUÍ",
+                "CODIGO": "05004"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "BELMIRA",
+                "CODIGO": "05086"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TIERRALTA",
+                "CODIGO": "23807"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN LUIS DE CUBARRAL",
+                "CODIGO": "50223"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LA TOLA",
+                "CODIGO": "52390"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "RICAURTE",
+                "CODIGO": "25612"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "VILLA MARIA",
+                "CODIGO": "17873"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PUERTO ESCONDIDO",
+                "CODIGO": "23574"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MOÑITOS",
+                "CODIGO": "23500"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CÁCOTA",
+                "CODIGO": "54125"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "AGUSTÍN CODAZZI",
+                "CODIGO": "20013"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MAHATES",
+                "CODIGO": "13433"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PURIFICACIÓN",
+                "CODIGO": "73585"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN PABLO",
+                "CODIGO": "52693"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CALI",
+                "CODIGO": "76001"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CUMBITARA",
+                "CODIGO": "52233"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PALMAR DE VARELA",
+                "CODIGO": "08520"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PANA PANA",
+                "CODIGO": "94887"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "EL TAMBO",
+                "CODIGO": "19256"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LA FLORIDA",
+                "CODIGO": "52381"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MONIQUIRÁ",
+                "CODIGO": "15469"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "GUAYABAL DE SIQUIMA",
+                "CODIGO": "25328"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "FRANCISCO PIZARRO",
+                "CODIGO": "52520"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "VÉLEZ",
+                "CODIGO": "68861"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SINCELEJO",
+                "CODIGO": "70001"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN ONOFRE",
+                "CODIGO": "70713"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "VIRACACHÁ",
+                "CODIGO": "15879"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MOMPÓS",
+                "CODIGO": "13468"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MOSQUERA",
+                "CODIGO": "52473"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "BARAYA",
+                "CODIGO": "41078"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "DISTRACCION",
+                "CODIGO": "44098"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PUERTO LLERAS",
+                "CODIGO": "50577"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "HONDA",
+                "CODIGO": "73349"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MURILLO",
+                "CODIGO": "73461"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TORIBIO",
+                "CODIGO": "19821"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MARSELLA",
+                "CODIGO": "66440"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PUERTO GAITÁN",
+                "CODIGO": "50568"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MÁLAGA",
+                "CODIGO": "68432"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LEBRÍJA",
+                "CODIGO": "68406"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MACHETA",
+                "CODIGO": "25426"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ANGOSTURA",
+                "CODIGO": "05038"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ALMAGUER",
+                "CODIGO": "19022"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "OVEJAS",
+                "CODIGO": "70508"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MOMIL",
+                "CODIGO": "23464"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PAZ DE ARIPORO",
+                "CODIGO": "85250"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PIAMONTE",
+                "CODIGO": "19533"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ENVIGADO",
+                "CODIGO": "05266"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MEDIO ATRATO",
+                "CODIGO": "27425"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "AGUADA",
+                "CODIGO": "68013"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CAICEDONIA",
+                "CODIGO": "76122"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ALPUJARRA",
+                "CODIGO": "73024"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CANTAGALLO",
+                "CODIGO": "13160"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ARACATACA",
+                "CODIGO": "47053"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PROVIDENCIA Y SANTA CATALINA",
+                "CODIGO": "88564"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "FLORIDA",
+                "CODIGO": "76275"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "REMEDIOS",
+                "CODIGO": "05604"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "VICTORIA",
+                "CODIGO": "17867"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MAPIRIPÁN",
+                "CODIGO": "50325"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SABANA DE TORRES",
+                "CODIGO": "68655"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN JUAN DE RÍO SECO",
+                "CODIGO": "25662"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PACOA",
+                "CODIGO": "97511"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "OLAYA HERRERA",
+                "CODIGO": "52490"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ALBANIA",
+                "CODIGO": "68020"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PAYA",
+                "CODIGO": "15533"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "BUENAVISTA",
+                "CODIGO": "23079"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN PEDRO",
+                "CODIGO": "05664"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "EL CASTILLO",
+                "CODIGO": "50251"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TITIRIBÍ",
+                "CODIGO": "05809"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "NOCAIMA",
+                "CODIGO": "25491"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SALAMINA",
+                "CODIGO": "47675"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "EL ROBLE",
+                "CODIGO": "70233"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "JESÚS MARÍA",
+                "CODIGO": "68368"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CERRITO",
+                "CODIGO": "68162"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TURBO",
+                "CODIGO": "05837"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "EL COCUY",
+                "CODIGO": "15244"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CARACOLÍ",
+                "CODIGO": "05142"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CONCEPCIÓN",
+                "CODIGO": "05206"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TUTAZÁ",
+                "CODIGO": "15839"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TIMANÁ",
+                "CODIGO": "41807"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "HATO COROZAL",
+                "CODIGO": "85125"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "GINEBRA",
+                "CODIGO": "76306"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MEDIO SAN JUAN",
+                "CODIGO": "27450"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LA UNIÓN",
+                "CODIGO": "05400"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "GAMEZA",
+                "CODIGO": "15296"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TÓPAGA",
+                "CODIGO": "15820"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "AGRADO",
+                "CODIGO": "41013"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PUERTO COLOMBIA",
+                "CODIGO": "08573"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "HACARÍ",
+                "CODIGO": "54344"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TURBANÁ",
+                "CODIGO": "13838"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TAME",
+                "CODIGO": "81794"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SUTATENZA",
+                "CODIGO": "15778"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CEPITÁ",
+                "CODIGO": "68160"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "NUEVA GRANADA",
+                "CODIGO": "47460"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MARIQUITA",
+                "CODIGO": "73443"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN ZENÓN",
+                "CODIGO": "47703"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LÓPEZ",
+                "CODIGO": "19418"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SOMONDOCO",
+                "CODIGO": "15761"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN PEDRO",
+                "CODIGO": "70717"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "INZÁ",
+                "CODIGO": "19355"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ANOLAIMA",
+                "CODIGO": "25040"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PEREIRA",
+                "CODIGO": "66001"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "GUTIÉRREZ",
+                "CODIGO": "25339"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "BUGA",
+                "CODIGO": "76111"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SANTIAGO",
+                "CODIGO": "86760"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SANTA LUCÍA",
+                "CODIGO": "08675"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TENJO",
+                "CODIGO": "25799"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PÁCORA",
+                "CODIGO": "17513"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SANTA BÁRBARA",
+                "CODIGO": "05679"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SUSACÓN",
+                "CODIGO": "15774"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "BUESACO",
+                "CODIGO": "52110"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TAURAMENA",
+                "CODIGO": "85410"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "AMALFI",
+                "CODIGO": "05031"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "BALBOA",
+                "CODIGO": "19075"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SABANALARGA",
+                "CODIGO": "05628"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "VALLE DE SAN JUAN",
+                "CODIGO": "73854"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LA ARGENTINA",
+                "CODIGO": "41378"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CONCORDIA",
+                "CODIGO": "47205"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "YONDÓ",
+                "CODIGO": "05893"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SANTA HELENA DEL OPÓN",
+                "CODIGO": "68720"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "COPER",
+                "CODIGO": "15212"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "USIACURÍ",
+                "CODIGO": "08849"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CASABIANCA",
+                "CODIGO": "73152"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "GUÁTICA",
+                "CODIGO": "66318"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CHIMÁ",
+                "CODIGO": "23168"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ZIPAQUIRÁ",
+                "CODIGO": "25899"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LA CALERA",
+                "CODIGO": "25377"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LÉRIDA",
+                "CODIGO": "73408"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "NOBSA",
+                "CODIGO": "15491"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CHINÁCOTA",
+                "CODIGO": "54172"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PUERTO CONCORDIA",
+                "CODIGO": "50450"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PUEBLORRICO",
+                "CODIGO": "05576"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LA JAGUA DE IBIRICO",
+                "CODIGO": "20400"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SANTA ISABEL",
+                "CODIGO": "73686"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "AQUITANIA",
+                "CODIGO": "15047"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAMPUÉS",
+                "CODIGO": "70670"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TEORAMA",
+                "CODIGO": "54800"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "BELÉN DE BAJIRA",
+                "CODIGO": "27086"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "GALERAS",
+                "CODIGO": "70235"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SUBACHOQUE",
+                "CODIGO": "25769"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "JORDÁN",
+                "CODIGO": "68370"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "VERGARA",
+                "CODIGO": "25862"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "VILLAVICENCIO",
+                "CODIGO": "50001"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TARAZÁ",
+                "CODIGO": "05790"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TOLEDO",
+                "CODIGO": "54820"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "GACHANCIPÁ",
+                "CODIGO": "25295"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ZAPAYÁN",
+                "CODIGO": "47960"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN JOSÉ DE PARE",
+                "CODIGO": "15664"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SIMACOTA",
+                "CODIGO": "68745"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TALAIGUA NUEVO",
+                "CODIGO": "13780"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "BALBOA",
+                "CODIGO": "66075"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "BELALCÁZAR",
+                "CODIGO": "17088"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "BOCHALEMA",
+                "CODIGO": "54099"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PUERTO LÓPEZ",
+                "CODIGO": "50573"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LA VICTORIA",
+                "CODIGO": "76403"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MONGUA",
+                "CODIGO": "15464"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PALMITO",
+                "CODIGO": "70523"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SOCHA",
+                "CODIGO": "15757"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CISNEROS",
+                "CODIGO": "05190"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CACHIPAY",
+                "CODIGO": "25123"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "VILLARRICA",
+                "CODIGO": "73873"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LA UNIÓN",
+                "CODIGO": "76400"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "BUENAVISTA",
+                "CODIGO": "63111"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "GAMARRA",
+                "CODIGO": "20295"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MURINDÓ",
+                "CODIGO": "05475"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SOATÁ",
+                "CODIGO": "15753"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "BAGADÓ",
+                "CODIGO": "27073"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CAJIBÍO",
+                "CODIGO": "19130"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ARAUQUITA",
+                "CODIGO": "81065"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PÁRAMO",
+                "CODIGO": "68533"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SANTA SOFÍA",
+                "CODIGO": "15696"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LA PEDRERA",
+                "CODIGO": "91407"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "HERVEO",
+                "CODIGO": "73347"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LOS PATIOS",
+                "CODIGO": "54405"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN JOSÉ DEL GUAVIARE",
+                "CODIGO": "95001"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "BELLO",
+                "CODIGO": "05088"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SANTA ROSA DEL SUR",
+                "CODIGO": "13688"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CERETÉ",
+                "CODIGO": "23162"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "VENECIA",
+                "CODIGO": "05861"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "OSPINA",
+                "CODIGO": "52506"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PIEDECUESTA",
+                "CODIGO": "68547"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PANQUEBA",
+                "CODIGO": "15522"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MAGUI",
+                "CODIGO": "52427"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MARINILLA",
+                "CODIGO": "05440"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ACHÍ",
+                "CODIGO": "13006"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "EL ROSAL",
+                "CODIGO": "25260"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "BETANIA",
+                "CODIGO": "05091"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PIVIJAY",
+                "CODIGO": "47551"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CERTEGUI",
+                "CODIGO": "27160"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PLANADAS",
+                "CODIGO": "73555"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CARTAGENA DEL CHAIRÁ",
+                "CODIGO": "18150"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PUERTO PARRA",
+                "CODIGO": "68573"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN VICENTE DE CHUCURÍ",
+                "CODIGO": "68689"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PUERTO BOYACÁ",
+                "CODIGO": "15572"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LA ESTRELLA",
+                "CODIGO": "05380"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "GUAITARILLA",
+                "CODIGO": "52320"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ACANDÍ",
+                "CODIGO": "27006"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LA UNIÓN",
+                "CODIGO": "70400"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN PELAYO",
+                "CODIGO": "23686"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN LUIS DE GACENO",
+                "CODIGO": "15667"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MOLAGAVITA",
+                "CODIGO": "68468"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SOLEDAD",
+                "CODIGO": "08758"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "VEGACHÍ",
+                "CODIGO": "05858"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CHISCAS",
+                "CODIGO": "15180"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "NEIRA",
+                "CODIGO": "17486"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CERRO SAN ANTONIO",
+                "CODIGO": "47161"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "HERRÁN",
+                "CODIGO": "54347"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "RÍO VIEJO",
+                "CODIGO": "13600"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CHIPATÁ",
+                "CODIGO": "68179"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "AGUAZUL",
+                "CODIGO": "85010"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "JARDÍN",
+                "CODIGO": "05364"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CUCUTILLA",
+                "CODIGO": "54223"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PUERTO SALGAR",
+                "CODIGO": "25572"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SOGAMOSO",
+                "CODIGO": "15759"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "BARRANCO DE LOBA",
+                "CODIGO": "13074"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ITSMINA",
+                "CODIGO": "27361"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN EDUARDO",
+                "CODIGO": "15660"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SESQUILÉ",
+                "CODIGO": "25736"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ARATOCA",
+                "CODIGO": "68051"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LA SIERRA",
+                "CODIGO": "19392"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PUEBLO NUEVO",
+                "CODIGO": "23570"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "VILLAGARZÓN",
+                "CODIGO": "86885"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN LUIS",
+                "CODIGO": "73678"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TIBIRITA",
+                "CODIGO": "25807"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "URIBIA",
+                "CODIGO": "44847"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "COGUA",
+                "CODIGO": "25200"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MIRANDA",
+                "CODIGO": "19455"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CUBARÁ",
+                "CODIGO": "15223"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "QUETAME",
+                "CODIGO": "25594"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PADILLA",
+                "CODIGO": "19513"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MARÍA LA BAJA",
+                "CODIGO": "13442"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ITAGUI",
+                "CODIGO": "05360"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LA APARTADA",
+                "CODIGO": "23350"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "VILLANUEVA",
+                "CODIGO": "13873"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SABANAS DE SAN ANGEL",
+                "CODIGO": "47660"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CHIMICHAGUA",
+                "CODIGO": "20175"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "EL CAIRO",
+                "CODIGO": "76246"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MANIZALES",
+                "CODIGO": "17001"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN JUAN BETULIA",
+                "CODIGO": "70702"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CHIVOR",
+                "CODIGO": "15236"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "NUQUÍ",
+                "CODIGO": "27495"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "NARINO",
+                "CODIGO": "52480"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CACHIRÁ",
+                "CODIGO": "54128"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PUERTO RONDÓN",
+                "CODIGO": "81591"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "BOLÍVAR",
+                "CODIGO": "76100"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CAPITANEJO",
+                "CODIGO": "68147"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "EL RETÉN",
+                "CODIGO": "47268"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN CARLOS",
+                "CODIGO": "23678"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "BOLÍVAR",
+                "CODIGO": "19100"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PATÍA",
+                "CODIGO": "19532"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PUEBLOVIEJO",
+                "CODIGO": "47570"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SANTUARIO",
+                "CODIGO": "66687"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "VALLE DEL GUAMUEZ",
+                "CODIGO": "86865"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAHAGÚN",
+                "CODIGO": "23660"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "EL CARMEN DE BOLÍVAR",
+                "CODIGO": "13244"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ANAPOIMA",
+                "CODIGO": "25035"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN LUIS",
+                "CODIGO": "05660"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN CARLOS",
+                "CODIGO": "05649"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MANAURE",
+                "CODIGO": "44560"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LA PINTADA",
+                "CODIGO": "05390"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "JENESANO",
+                "CODIGO": "15367"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CALOTO",
+                "CODIGO": "19142"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PUERTO RICO",
+                "CODIGO": "18592"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "GIGANTE",
+                "CODIGO": "41306"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "GUACAMAYAS",
+                "CODIGO": "15317"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MONTECRISTO",
+                "CODIGO": "13458"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "BARRANCAS",
+                "CODIGO": "44078"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "OPORAPA",
+                "CODIGO": "41503"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "FACATATIVÁ",
+                "CODIGO": "25269"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CUMARIBO",
+                "CODIGO": "99773"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "VENADILLO",
+                "CODIGO": "73861"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAMANÁ",
+                "CODIGO": "17662"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN GIL",
+                "CODIGO": "68679"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ARGELIA",
+                "CODIGO": "76054"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "FUNZA",
+                "CODIGO": "25286"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TESALIA",
+                "CODIGO": "41797"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "GRANADA",
+                "CODIGO": "05313"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN JUAN DEL CESAR",
+                "CODIGO": "44650"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SANTIAGO",
+                "CODIGO": "54680"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "IQUIRA",
+                "CODIGO": "41357"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PEÑOL",
+                "CODIGO": "05541"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "BUENOS AIRES",
+                "CODIGO": "19110"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MAJAGUAL",
+                "CODIGO": "70429"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PULÍ",
+                "CODIGO": "25580"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TANGUA",
+                "CODIGO": "52788"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CURUMANÍ",
+                "CODIGO": "20228"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CHAPARRAL",
+                "CODIGO": "73168"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CAUCASIA",
+                "CODIGO": "05154"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MONTERREY",
+                "CODIGO": "85162"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "JERICÓ",
+                "CODIGO": "15368"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TOCANCIPÁ",
+                "CODIGO": "25817"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CHINAVITA",
+                "CODIGO": "15172"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CÁCERES",
+                "CODIGO": "05120"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CLEMENCIA",
+                "CODIGO": "13222"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "GUATAVITA",
+                "CODIGO": "25326"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "RICAURTE",
+                "CODIGO": "52612"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SALENTO",
+                "CODIGO": "63690"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CONSACA",
+                "CODIGO": "52207"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LABRANZAGRANDE",
+                "CODIGO": "15377"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "QUIPILE",
+                "CODIGO": "25596"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LEIVA",
+                "CODIGO": "52405"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LA CELIA",
+                "CODIGO": "66383"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PITALITO",
+                "CODIGO": "41551"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "GUAMAL",
+                "CODIGO": "50318"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LA MESA",
+                "CODIGO": "25386"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "AGUACHICA",
+                "CODIGO": "20011"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SANTA ROSA DE CABAL",
+                "CODIGO": "66682"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN JOSÉ DEL PALMAR",
+                "CODIGO": "27660"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SALADOBLANCO",
+                "CODIGO": "41660"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN ANTERO",
+                "CODIGO": "23672"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CUASPUD",
+                "CODIGO": "52224"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "RIONEGRO",
+                "CODIGO": "68615"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CICUCO",
+                "CODIGO": "13188"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TIBÚ",
+                "CODIGO": "54810"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "FLORESTA",
+                "CODIGO": "15276"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SALAMINA",
+                "CODIGO": "17653"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN LORENZO",
+                "CODIGO": "52687"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ICONONZO",
+                "CODIGO": "73352"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LA PLAYA",
+                "CODIGO": "54398"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "AYAPEL",
+                "CODIGO": "23068"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SABANETA",
+                "CODIGO": "05631"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SABANAGRANDE",
+                "CODIGO": "08634"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LA CRUZ",
+                "CODIGO": "52378"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "AMAGÁ",
+                "CODIGO": "05030"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ARBOLETES",
+                "CODIGO": "05051"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TELLO",
+                "CODIGO": "41799"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LA CAPILLA",
+                "CODIGO": "15380"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ARANZAZU",
+                "CODIGO": "17050"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "RÁQUIRA",
+                "CODIGO": "15600"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PACHAVITA",
+                "CODIGO": "15511"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SANTA BÁRBARA",
+                "CODIGO": "68705"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SANTANDER DE QUILICHAO",
+                "CODIGO": "19698"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CHIGORODÓ",
+                "CODIGO": "05172"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "BARANOA",
+                "CODIGO": "08078"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SOPLAVIENTO",
+                "CODIGO": "13760"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PUERTO CARREÑO",
+                "CODIGO": "99001"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PUERTO ARICA",
+                "CODIGO": "91536"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "GÓMEZ PLATA",
+                "CODIGO": "05310"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MACANAL",
+                "CODIGO": "15425"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "NECOCLÍ",
+                "CODIGO": "05490"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CUÍTIVA",
+                "CODIGO": "15226"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "NORCASIA",
+                "CODIGO": "17495"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "COYAIMA",
+                "CODIGO": "73217"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "POLICARPA",
+                "CODIGO": "52540"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "GIRÓN",
+                "CODIGO": "68307"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MONTERÍA",
+                "CODIGO": "23001"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "GUACHETÁ",
+                "CODIGO": "25317"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "JERUSALÉN",
+                "CODIGO": "25368"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PUERTO NARE",
+                "CODIGO": "05585"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ONZAGA",
+                "CODIGO": "68502"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN DIEGO",
+                "CODIGO": "20750"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CÚCUTA",
+                "CODIGO": "54001"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SUÁREZ",
+                "CODIGO": "73770"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "GUALMATÁN",
+                "CODIGO": "52323"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MARIPÍ",
+                "CODIGO": "15442"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SOLANO",
+                "CODIGO": "18756"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TURBACO",
+                "CODIGO": "13836"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CURITÍ",
+                "CODIGO": "68229"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LA MERCED",
+                "CODIGO": "17388"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "RESTREPO",
+                "CODIGO": "50606"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LA CEJA",
+                "CODIGO": "05376"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN PEDRO DE CARTAGO",
+                "CODIGO": "52694"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ARMENIA",
+                "CODIGO": "63001"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TOPAIPI",
+                "CODIGO": "25823"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SUÁREZ",
+                "CODIGO": "19780"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ANORÍ",
+                "CODIGO": "05040"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PUERTO LIBERTADOR",
+                "CODIGO": "23580"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SOCORRO",
+                "CODIGO": "68755"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MONGUÍ",
+                "CODIGO": "15466"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SANTA ANA",
+                "CODIGO": "47707"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SANTA CATALINA",
+                "CODIGO": "13673"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MARGARITA",
+                "CODIGO": "13440"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "NECHÍ",
+                "CODIGO": "05495"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PUERTO BERRÍO",
+                "CODIGO": "05579"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "RIOFRÍO",
+                "CODIGO": "76616"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LA VEGA",
+                "CODIGO": "25402"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CALAMAR",
+                "CODIGO": "13140"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ASTREA",
+                "CODIGO": "20032"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LA CUMBRE",
+                "CODIGO": "76377"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PÁEZ",
+                "CODIGO": "15514"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "RIVERA",
+                "CODIGO": "41615"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MORICHAL",
+                "CODIGO": "94888"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "NIMAIMA",
+                "CODIGO": "25489"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CIÉNAGA DE ORO",
+                "CODIGO": "23189"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN CALIXTO",
+                "CODIGO": "54670"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PITAL",
+                "CODIGO": "41548"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "GRAMALOTE",
+                "CODIGO": "54313"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "BUCARAMANGA",
+                "CODIGO": "68001"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "JAMUNDÍ",
+                "CODIGO": "76364"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ALMEIDA",
+                "CODIGO": "15022"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TINJACÁ",
+                "CODIGO": "15808"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "BOGOTÁ D.C.",
+                "CODIGO": "11001"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAMANIEGO",
+                "CODIGO": "52678"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SALAZAR",
+                "CODIGO": "54660"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "EL GUAMO",
+                "CODIGO": "13248"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "VENTAQUEMADA",
+                "CODIGO": "15861"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN BERNARDO DEL VIENTO",
+                "CODIGO": "23675"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ARBOLEDA",
+                "CODIGO": "52051"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAMACÁ",
+                "CODIGO": "15646"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "BERBEO",
+                "CODIGO": "15090"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN PABLO BORBUR",
+                "CODIGO": "15681"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "GUADALUPE",
+                "CODIGO": "41319"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "BOLÍVAR",
+                "CODIGO": "68101"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "VALLE DE SAN JOSÉ",
+                "CODIGO": "68855"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "RIO IRÓ",
+                "CODIGO": "27580"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "VETAS",
+                "CODIGO": "68867"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TOCAIMA",
+                "CODIGO": "25815"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LA VEGA",
+                "CODIGO": "19397"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "GUAPOTÁ",
+                "CODIGO": "68322"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CHITA",
+                "CODIGO": "15183"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SANTA BÁRBARA",
+                "CODIGO": "52696"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SASAIMA",
+                "CODIGO": "25718"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TÁMARA",
+                "CODIGO": "85400"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CABUYARO",
+                "CODIGO": "50124"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SUCRE",
+                "CODIGO": "68773"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "EL TAMBO",
+                "CODIGO": "52260"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "OIBA",
+                "CODIGO": "68500"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MISTRATÓ",
+                "CODIGO": "66456"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CARMEN DE CARUPA",
+                "CODIGO": "25154"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PUERTO GUZMÁN",
+                "CODIGO": "86571"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LA MACARENA",
+                "CODIGO": "50350"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TERUEL",
+                "CODIGO": "41801"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CARCASÍ",
+                "CODIGO": "68152"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "DABEIBA",
+                "CODIGO": "05234"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "GARAGOA",
+                "CODIGO": "15299"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PRADERA",
+                "CODIGO": "76563"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN MIGUEL",
+                "CODIGO": "86757"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PAIME",
+                "CODIGO": "25518"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CALAMAR",
+                "CODIGO": "95015"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ATRATO",
+                "CODIGO": "27050"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TORO",
+                "CODIGO": "76823"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SATIVASUR",
+                "CODIGO": "15723"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "DURANIA",
+                "CODIGO": "54239"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "EL PEÑOL",
+                "CODIGO": "52254"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CÓMBITA",
+                "CODIGO": "15204"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "VIANÍ",
+                "CODIGO": "25867"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "BRICEÑO",
+                "CODIGO": "15106"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CUCUNUBÁ",
+                "CODIGO": "25224"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "GUARANDA",
+                "CODIGO": "70265"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN JACINTO",
+                "CODIGO": "13654"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MORALES",
+                "CODIGO": "19473"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ARGELIA",
+                "CODIGO": "19050"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "COVARACHÍA",
+                "CODIGO": "15218"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "YOTOCO",
+                "CODIGO": "76890"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CHIVOLO",
+                "CODIGO": "47170"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "COROMORO",
+                "CODIGO": "68217"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LA BELLEZA",
+                "CODIGO": "68377"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MONTEBELLO",
+                "CODIGO": "05467"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PUERRES",
+                "CODIGO": "52573"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "AGUA DE DIOS",
+                "CODIGO": "25001"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CUNDAY",
+                "CODIGO": "73226"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LETICIA",
+                "CODIGO": "91001"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "GONZÁLEZ",
+                "CODIGO": "20310"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "VILLA DEL ROSARIO",
+                "CODIGO": "54874"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CRAVO NORTE",
+                "CODIGO": "81220"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "DOLORES",
+                "CODIGO": "73236"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SILVANIA",
+                "CODIGO": "25743"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "GAMA",
+                "CODIGO": "25299"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CONTADERO",
+                "CODIGO": "52210"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "HATILLO DE LOBA",
+                "CODIGO": "13300"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CAREPA",
+                "CODIGO": "05147"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "VENECIA",
+                "CODIGO": "25506"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SANTA MARÍA",
+                "CODIGO": "15690"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "UBATE",
+                "CODIGO": "25843"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ZAPATOCA",
+                "CODIGO": "68895"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PIJAO",
+                "CODIGO": "63548"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TAMINANGO",
+                "CODIGO": "52786"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "EL PASO",
+                "CODIGO": "20250"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SUAZA",
+                "CODIGO": "41770"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CAQUEZA",
+                "CODIGO": "25151"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LLORÓ",
+                "CODIGO": "27413"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SANTO TOMÁS",
+                "CODIGO": "08685"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PURACÉ",
+                "CODIGO": "19585"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LA UVITA",
+                "CODIGO": "15403"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TADÓ",
+                "CODIGO": "27787"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "BURITICÁ",
+                "CODIGO": "05113"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CARMEN DEL DARIÉN",
+                "CODIGO": "27150"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CANDELARIA",
+                "CODIGO": "76130"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "GARZÓN",
+                "CODIGO": "41298"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MIRITI - PARANÁ",
+                "CODIGO": "91460"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LABATECA",
+                "CODIGO": "54377"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN BERNARDO",
+                "CODIGO": "52685"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ARMENIA",
+                "CODIGO": "05059"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "HISPANIA",
+                "CODIGO": "05353"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SUSA",
+                "CODIGO": "25779"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "NÓVITA",
+                "CODIGO": "27491"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ARBELÁEZ",
+                "CODIGO": "25053"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "URUMITA",
+                "CODIGO": "44855"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "EL COLEGIO",
+                "CODIGO": "25245"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LA VICTORIA",
+                "CODIGO": "15401"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MANZANARES",
+                "CODIGO": "17433"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MADRID",
+                "CODIGO": "25430"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TIQUISIO",
+                "CODIGO": "13810"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "VALENCIA",
+                "CODIGO": "23855"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ARBOLEDAS",
+                "CODIGO": "54051"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CARMEN DE APICALÁ",
+                "CODIGO": "73148"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "APULO",
+                "CODIGO": "25599"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TÁMESIS",
+                "CODIGO": "05789"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MONTENEGRO",
+                "CODIGO": "63470"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "NARIÑO",
+                "CODIGO": "05483"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "HATO",
+                "CODIGO": "68344"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "BELÉN",
+                "CODIGO": "15087"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SANDONÁ",
+                "CODIGO": "52683"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN JUAN DE ARAMA",
+                "CODIGO": "50683"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "GUAVATÁ",
+                "CODIGO": "68324"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "GÜEPSA",
+                "CODIGO": "68327"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SÁCHICA",
+                "CODIGO": "15638"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CHIRIGUANÁ",
+                "CODIGO": "20178"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "VIGÍA DEL FUERTE",
+                "CODIGO": "05873"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "GACHETA",
+                "CODIGO": "25297"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "YAGUARÁ",
+                "CODIGO": "41885"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SANTA ROSA",
+                "CODIGO": "19701"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CÓRDOBA",
+                "CODIGO": "52215"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "BELTRÁN",
+                "CODIGO": "25086"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CARMEN DE VIBORAL",
+                "CODIGO": "05148"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "RAMIRIQUÍ",
+                "CODIGO": "15599"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CHAMEZA",
+                "CODIGO": "85015"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "JURADÓ",
+                "CODIGO": "27372"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ARENAL",
+                "CODIGO": "13042"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "EL PEÑÓN",
+                "CODIGO": "68250"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN JUAN NEPOMUCENO",
+                "CODIGO": "13657"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "COELLO",
+                "CODIGO": "73200"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TUNJA",
+                "CODIGO": "15001"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "DON MATÍAS",
+                "CODIGO": "05237"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "RIO QUITO",
+                "CODIGO": "27600"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ARMERO",
+                "CODIGO": "73055"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ALGECIRAS",
+                "CODIGO": "41020"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "EL DORADO",
+                "CODIGO": "50270"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "YOPAL",
+                "CODIGO": "85001"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CACAHUAL",
+                "CODIGO": "94886"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CHACHAGÜÍ",
+                "CODIGO": "52240"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "NEMOCÓN",
+                "CODIGO": "25486"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "FORTUL",
+                "CODIGO": "81300"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TRUJILLO",
+                "CODIGO": "76828"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN CAYETANO",
+                "CODIGO": "54673"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PAJARITO",
+                "CODIGO": "15518"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CAIMITO",
+                "CODIGO": "70124"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LOS SANTOS",
+                "CODIGO": "68418"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SOACHA",
+                "CODIGO": "25754"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "DOSQUEBRADAS",
+                "CODIGO": "66170"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ITUANGO",
+                "CODIGO": "05361"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ALBÁN",
+                "CODIGO": "25019"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "FALAN",
+                "CODIGO": "73270"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ÚTICA",
+                "CODIGO": "25851"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CHINÚ",
+                "CODIGO": "23182"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "GUACHUCAL",
+                "CODIGO": "52317"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SARDINATA",
+                "CODIGO": "54720"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PROVIDENCIA",
+                "CODIGO": "52565"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CORINTO",
+                "CODIGO": "19212"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "GUATAPE",
+                "CODIGO": "05321"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "YALÍ",
+                "CODIGO": "05885"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SUCRE",
+                "CODIGO": "19785"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ACEVEDO",
+                "CODIGO": "41006"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LÍBANO",
+                "CODIGO": "73411"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CÓRDOBA",
+                "CODIGO": "13212"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ANZOÁTEGUI",
+                "CODIGO": "73043"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SALGAR",
+                "CODIGO": "05642"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CHITAGÁ",
+                "CODIGO": "54174"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PALERMO",
+                "CODIGO": "41524"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "EL CALVARIO",
+                "CODIGO": "50245"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PAMPLONA",
+                "CODIGO": "54518"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "AGUADAS",
+                "CODIGO": "17013"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "GUASCA",
+                "CODIGO": "25322"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "VALPARAÍSO",
+                "CODIGO": "05856"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "OROCUÉ",
+                "CODIGO": "85230"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PEQUE",
+                "CODIGO": "05543"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CANTON DE SAN PABLO",
+                "CODIGO": "27135"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "VERSALLES",
+                "CODIGO": "76863"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CÓRDOBA",
+                "CODIGO": "63212"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SANTA ROSA",
+                "CODIGO": "13683"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PURÍSIMA",
+                "CODIGO": "23586"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "VILLANUEVA",
+                "CODIGO": "85440"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "HELICONIA",
+                "CODIGO": "05347"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ANSERMANUEVO",
+                "CODIGO": "76041"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "VILLANUEVA",
+                "CODIGO": "44874"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "COLÓN",
+                "CODIGO": "86219"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ENTRERRIOS",
+                "CODIGO": "05264"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ZETAQUIRA",
+                "CODIGO": "15897"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PAUNA",
+                "CODIGO": "15531"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "GÜICÁN",
+                "CODIGO": "15332"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CAPARRAPÍ",
+                "CODIGO": "25148"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "YACUANQUER",
+                "CODIGO": "52885"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SANTA BARBARA DE PINTO",
+                "CODIGO": "47720"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN MIGUEL",
+                "CODIGO": "68686"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "VILLETA",
+                "CODIGO": "25875"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "COLOMBIA",
+                "CODIGO": "41206"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SUAITA",
+                "CODIGO": "68770"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ABEJORRAL",
+                "CODIGO": "05002"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PUENTE NACIONAL",
+                "CODIGO": "68572"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LURUACO",
+                "CODIGO": "08421"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "VIJES",
+                "CODIGO": "76869"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "BETULIA",
+                "CODIGO": "05093"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PUERTO NARIÑO",
+                "CODIGO": "91540"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "FUENTE DE ORO",
+                "CODIGO": "50287"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "REMOLINO",
+                "CODIGO": "47605"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN SEBASTIÁN",
+                "CODIGO": "19693"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SOPO",
+                "CODIGO": "25758"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "EL COPEY",
+                "CODIGO": "20238"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "BETULIA",
+                "CODIGO": "68092"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "GUAMO",
+                "CODIGO": "73319"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ARCABUCO",
+                "CODIGO": "15051"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SUTAMARCHÁN",
+                "CODIGO": "15776"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN MARTÍN",
+                "CODIGO": "20770"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "VALDIVIA",
+                "CODIGO": "05854"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "GUADUAS",
+                "CODIGO": "25320"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PAIPA",
+                "CODIGO": "15516"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "COROZAL",
+                "CODIGO": "70215"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "GIRARDOTA",
+                "CODIGO": "05308"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "FILANDIA",
+                "CODIGO": "63272"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "EL LITORAL DEL SAN JUAN",
+                "CODIGO": "27250"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CURRILLO",
+                "CODIGO": "18205"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN BENITO",
+                "CODIGO": "68673"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PALESTINA",
+                "CODIGO": "17524"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "YACOPÍ",
+                "CODIGO": "25885"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LA PALMA",
+                "CODIGO": "25394"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CALDAS",
+                "CODIGO": "15131"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SIBUNDOY",
+                "CODIGO": "86749"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN FRANCISCO",
+                "CODIGO": "86755"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SIPÍ",
+                "CODIGO": "27745"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CIRCASIA",
+                "CODIGO": "63190"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SEGOVIA",
+                "CODIGO": "05736"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TAUSA",
+                "CODIGO": "25793"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "EL CARMEN",
+                "CODIGO": "54245"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LORICA",
+                "CODIGO": "23417"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TASCO",
+                "CODIGO": "15790"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TIPACOQUE",
+                "CODIGO": "15810"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PIJIÑO DEL CARMEN",
+                "CODIGO": "47545"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PESCA",
+                "CODIGO": "15542"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "COVEÑAS",
+                "CODIGO": "70221"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "GIRALDO",
+                "CODIGO": "05306"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "BELÉN",
+                "CODIGO": "52083"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ISNOS",
+                "CODIGO": "41359"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "VITERBO",
+                "CODIGO": "17877"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ELÍAS",
+                "CODIGO": "41244"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "EL PAUJIL",
+                "CODIGO": "18256"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN BERNARDO",
+                "CODIGO": "25649"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PACHO",
+                "CODIGO": "25513"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ALBANIA",
+                "CODIGO": "44035"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LA CHORRERA",
+                "CODIGO": "91405"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PLATO",
+                "CODIGO": "47555"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PAPUNAHUA",
+                "CODIGO": "97777"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN JUANITO",
+                "CODIGO": "50686"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "EL PLAYÓN",
+                "CODIGO": "68255"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "EL CARMEN DE CHUCURÍ",
+                "CODIGO": "68235"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CAMPO DE LA CRUZ",
+                "CODIGO": "08137"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "EL CARMEN DE ATRATO",
+                "CODIGO": "27245"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CIÉNEGA",
+                "CODIGO": "15189"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PELAYA",
+                "CODIGO": "20550"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "UNE",
+                "CODIGO": "25845"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TOTA",
+                "CODIGO": "15822"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "VILLA CARO",
+                "CODIGO": "54871"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MATANZA",
+                "CODIGO": "68444"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SIACHOQUE",
+                "CODIGO": "15740"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN JERÓNIMO",
+                "CODIGO": "05656"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "VILLAVIEJA",
+                "CODIGO": "41872"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "EL TABLÓN DE GÓMEZ",
+                "CODIGO": "52258"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "FLORIDABLANCA",
+                "CODIGO": "68276"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CONVENCIÓN",
+                "CODIGO": "54206"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "EL DOVIO",
+                "CODIGO": "76250"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "URAMITA",
+                "CODIGO": "05842"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SOCOTÁ",
+                "CODIGO": "15755"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "UBALÁ",
+                "CODIGO": "25839"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ABREGO",
+                "CODIGO": "54003"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PALMIRA",
+                "CODIGO": "76520"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "EL PIÑÓN",
+                "CODIGO": "47258"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "GUADALUPE",
+                "CODIGO": "05315"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SANTA MARÍA",
+                "CODIGO": "41676"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "EL MOLINO",
+                "CODIGO": "44110"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "BELÉN DE LOS ANDAQUIES",
+                "CODIGO": "18094"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "EL TARRA",
+                "CODIGO": "54250"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PAICOL",
+                "CODIGO": "41518"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LOS CÓRDOBAS",
+                "CODIGO": "23419"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SILOS",
+                "CODIGO": "54743"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MESETAS",
+                "CODIGO": "50330"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TENA",
+                "CODIGO": "25797"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ARAUCA",
+                "CODIGO": "81001"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "IPIALES",
+                "CODIGO": "52356"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MALAMBO",
+                "CODIGO": "08433"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CHIVATÁ",
+                "CODIGO": "15187"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN PEDRO DE URABA",
+                "CODIGO": "05665"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CARAMANTA",
+                "CODIGO": "05145"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CHÍQUIZA",
+                "CODIGO": "15232"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MARQUETALIA",
+                "CODIGO": "17444"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CHAGUANÍ",
+                "CODIGO": "25168"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "APARTADÓ",
+                "CODIGO": "05045"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "FUNDACION",
+                "CODIGO": "47288"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "OCAÑA",
+                "CODIGO": "54498"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN MARTÍN DE LOBA",
+                "CODIGO": "13667"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ZONA BANANERA",
+                "CODIGO": "47980"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LA PAZ",
+                "CODIGO": "68397"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "JUNÍN",
+                "CODIGO": "25372"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN ROSA VITERBO",
+                "CODIGO": "15693"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MOCOA",
+                "CODIGO": "86001"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PIOJÓ",
+                "CODIGO": "08549"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "BARRANCA DE UPÍA",
+                "CODIGO": "50110"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ROLDANILLO",
+                "CODIGO": "76622"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CUCAITA",
+                "CODIGO": "15224"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LA TEBAIDA",
+                "CODIGO": "63401"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN RAFAEL",
+                "CODIGO": "05667"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "NUNCHÍA",
+                "CODIGO": "85225"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PANDI",
+                "CODIGO": "25524"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TUNUNGUÁ",
+                "CODIGO": "15832"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PONEDERA",
+                "CODIGO": "08560"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SANTIAGO DE TOLÚ",
+                "CODIGO": "70820"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PUERTO RICO",
+                "CODIGO": "50590"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "VILLAHERMOSA",
+                "CODIGO": "73870"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN LUIS DE PALENQUE",
+                "CODIGO": "85325"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CHIQUINQUIRÁ",
+                "CODIGO": "15176"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "COLOSO",
+                "CODIGO": "70204"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ALBÁN",
+                "CODIGO": "52019"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN JUAN DE URABA",
+                "CODIGO": "05659"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "QUÍPAMA",
+                "CODIGO": "15580"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SUPÍA",
+                "CODIGO": "17777"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "UNGUÍA",
+                "CODIGO": "27800"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PAZ DE RÍO",
+                "CODIGO": "15537"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN CAYETANO",
+                "CODIGO": "25653"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAPUYES",
+                "CODIGO": "52720"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN AGUSTÍN",
+                "CODIGO": "41668"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "BUSBANZÁ",
+                "CODIGO": "15114"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CAJAMARCA",
+                "CODIGO": "73124"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LA MONTAÑITA",
+                "CODIGO": "18410"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN VICENTE",
+                "CODIGO": "05674"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SORACÁ",
+                "CODIGO": "15764"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SANTANA",
+                "CODIGO": "15686"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ROBERTO PAYÁN",
+                "CODIGO": "52621"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "FRONTINO",
+                "CODIGO": "05284"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "FUSAGASUGÁ",
+                "CODIGO": "25290"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TONA",
+                "CODIGO": "68820"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "BUENAVISTA",
+                "CODIGO": "70110"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LA UNIÓN",
+                "CODIGO": "52399"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TENERIFE",
+                "CODIGO": "47798"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MACARAVITA",
+                "CODIGO": "68425"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "BRICEÑO",
+                "CODIGO": "05107"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ANSERMA",
+                "CODIGO": "17042"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "YUMBO",
+                "CODIGO": "76892"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "COLÓN",
+                "CODIGO": "52203"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "EL CHARCO",
+                "CODIGO": "52250"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CARTAGENA",
+                "CODIGO": "13001"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TOTORÓ",
+                "CODIGO": "19824"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ALGARROBO",
+                "CODIGO": "47030"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "GUAYABETAL",
+                "CODIGO": "25335"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN ESTANISLAO",
+                "CODIGO": "13647"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SANTO DOMINGO",
+                "CODIGO": "05690"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN FRANCISCO",
+                "CODIGO": "25658"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "FIRAVITOBA",
+                "CODIGO": "15272"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN ANDRÉS",
+                "CODIGO": "68669"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PIENDAMÓ",
+                "CODIGO": "19548"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CHARALÁ",
+                "CODIGO": "68167"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CHOCONTÁ",
+                "CODIGO": "25183"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "NARIÑO",
+                "CODIGO": "25483"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "BOJAYA",
+                "CODIGO": "27099"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LA GUADALUPE",
+                "CODIGO": "94885"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "FILADELFIA",
+                "CODIGO": "17272"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SEVILLA",
+                "CODIGO": "76736"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN CARLOS GUAROA",
+                "CODIGO": "50680"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ALBANIA",
+                "CODIGO": "18029"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CONDOTO",
+                "CODIGO": "27205"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ALVARADO",
+                "CODIGO": "73026"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SÁCAMA",
+                "CODIGO": "85315"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "BAHÍA SOLANO",
+                "CODIGO": "27075"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MANÍ",
+                "CODIGO": "85139"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PAILITAS",
+                "CODIGO": "20517"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LOURDES",
+                "CODIGO": "54418"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CHOACHÍ",
+                "CODIGO": "25181"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "HOBO",
+                "CODIGO": "41349"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SITIONUEVO",
+                "CODIGO": "47745"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "NILO",
+                "CODIGO": "25488"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MORROA",
+                "CODIGO": "70473"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "RONCESVALLES",
+                "CODIGO": "73622"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "VILLANUEVA",
+                "CODIGO": "68872"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CAMPAMENTO",
+                "CODIGO": "05134"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "GUAPI",
+                "CODIGO": "19318"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ARGELIA",
+                "CODIGO": "05055"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "BUGALAGRANDE",
+                "CODIGO": "76113"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CIMITARRA",
+                "CODIGO": "68190"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "GALAPA",
+                "CODIGO": "08296"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CIUDAD BOLÍVAR",
+                "CODIGO": "05101"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CIÉNAGA",
+                "CODIGO": "47189"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "BARBOSA",
+                "CODIGO": "05079"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ARIGUANÍ",
+                "CODIGO": "47058"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PUEBLO BELLO",
+                "CODIGO": "20570"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "GÉNOVA",
+                "CODIGO": "63302"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "EL ESPINO",
+                "CODIGO": "15248"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "NÁTAGA",
+                "CODIGO": "41483"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "FOSCA",
+                "CODIGO": "25281"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "GUATEQUE",
+                "CODIGO": "15322"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "EL PEÑÓN",
+                "CODIGO": "25258"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CAMPOHERMOSO",
+                "CODIGO": "15135"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PEDRAZA",
+                "CODIGO": "47541"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CONCEPCIÓN",
+                "CODIGO": "68207"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SUPATÁ",
+                "CODIGO": "25777"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CONTRATACIÓN",
+                "CODIGO": "68211"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "GUACARÍ",
+                "CODIGO": "76318"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "OCAMONTE",
+                "CODIGO": "68498"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ALEJANDRÍA",
+                "CODIGO": "05021"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "BARRANCABERMEJA",
+                "CODIGO": "68081"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ANDES",
+                "CODIGO": "05034"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "FLORIÁN",
+                "CODIGO": "68271"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "GUATAQUÍ",
+                "CODIGO": "25324"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "BOSCONIA",
+                "CODIGO": "20060"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ANDALUCÍA",
+                "CODIGO": "76036"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SALDAÑA",
+                "CODIGO": "73671"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SIBATÉ",
+                "CODIGO": "25740"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MORALES",
+                "CODIGO": "13473"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ZAMBRANO",
+                "CODIGO": "13894"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TIBANÁ",
+                "CODIGO": "15804"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PUERTO ASÍS",
+                "CODIGO": "86568"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "GACHALA",
+                "CODIGO": "25293"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "DIBULLA",
+                "CODIGO": "44090"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ZARAGOZA",
+                "CODIGO": "05895"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TUTA",
+                "CODIGO": "15837"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MIRAFLORES",
+                "CODIGO": "15455"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PASCA",
+                "CODIGO": "25535"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MAGANGUÉ",
+                "CODIGO": "13430"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SIMITÍ",
+                "CODIGO": "13744"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "DAGUA",
+                "CODIGO": "76233"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "VILLAPINZÓN",
+                "CODIGO": "25873"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN ANTONIO",
+                "CODIGO": "73675"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TOGÜÍ",
+                "CODIGO": "15816"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MOGOTES",
+                "CODIGO": "68464"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LOS PALMITOS",
+                "CODIGO": "70418"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CARTAGO",
+                "CODIGO": "76147"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "RIOBLANCO",
+                "CODIGO": "73616"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "RIONEGRO",
+                "CODIGO": "05615"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TIMBÍO",
+                "CODIGO": "19807"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LA LLANADA",
+                "CODIGO": "52385"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CONFINES",
+                "CODIGO": "68209"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MACEO",
+                "CODIGO": "05425"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MEDIO BAUDÓ",
+                "CODIGO": "27430"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "GRANADA",
+                "CODIGO": "50313"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SARAVENA",
+                "CODIGO": "81736"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LA PAZ",
+                "CODIGO": "20621"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MERCADERES",
+                "CODIGO": "19450"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SUESCA",
+                "CODIGO": "25772"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN JOSÉ DE MIRANDA",
+                "CODIGO": "68684"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "IBAGUÉ",
+                "CODIGO": "73001"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN SEBASTIÁN DE BUENAVISTA",
+                "CODIGO": "47692"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ANZA",
+                "CODIGO": "05044"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "NUEVO COLÓN",
+                "CODIGO": "15494"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "VISTA HERMOSA",
+                "CODIGO": "50711"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SUTATAUSA",
+                "CODIGO": "25781"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MAICAO",
+                "CODIGO": "44430"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ULLOA",
+                "CODIGO": "76845"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "POPAYÁN",
+                "CODIGO": "19001"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "APÍA",
+                "CODIGO": "66045"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CAJICÁ",
+                "CODIGO": "25126"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CALDAS",
+                "CODIGO": "05129"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TUMACO",
+                "CODIGO": "52835"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MALLAMA",
+                "CODIGO": "52435"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PALMAS DEL SOCORRO",
+                "CODIGO": "68524"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SANTA.ROSA DE OSOS",
+                "CODIGO": "05686"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PUPIALES",
+                "CODIGO": "52585"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "FREDONIA",
+                "CODIGO": "05282"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "COTORRA",
+                "CODIGO": "23300"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "EBÉJICO",
+                "CODIGO": "05240"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PENSILVANIA",
+                "CODIGO": "17541"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SIMIJACA",
+                "CODIGO": "25745"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "RECETOR",
+                "CODIGO": "85279"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "QUINCHÍA",
+                "CODIGO": "66594"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "YAVARATÉ",
+                "CODIGO": "97889"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PASTO",
+                "CODIGO": "52001"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ILES",
+                "CODIGO": "52352"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LANDÁZURI",
+                "CODIGO": "68385"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SANTAFÉ DE ANTIOQUIA",
+                "CODIGO": "05042"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "AMBALEMA",
+                "CODIGO": "73030"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "URRAO",
+                "CODIGO": "05847"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PARATEBUENO",
+                "CODIGO": "25530"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PUERTO COLOMBIA",
+                "CODIGO": "94884"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "BUENAVISTA",
+                "CODIGO": "15109"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MOTAVITA",
+                "CODIGO": "15476"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TRINIDAD",
+                "CODIGO": "85430"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MITÚ",
+                "CODIGO": "97001"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "FLORENCIA",
+                "CODIGO": "19290"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TIBACUY",
+                "CODIGO": "25805"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ALDANA",
+                "CODIGO": "52022"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SOTAQUIRÁ",
+                "CODIGO": "15763"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TULUÁ",
+                "CODIGO": "76834"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ALCALÁ",
+                "CODIGO": "76020"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TÚQUERRES",
+                "CODIGO": "52838"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MONTELÍBANO",
+                "CODIGO": "23466"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CHITARAQUE",
+                "CODIGO": "15185"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TARQUI",
+                "CODIGO": "41791"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TARSO",
+                "CODIGO": "05792"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PORE",
+                "CODIGO": "85263"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "GUAMAL",
+                "CODIGO": "47318"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TABIO",
+                "CODIGO": "25785"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "DUITAMA",
+                "CODIGO": "15238"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LA PLATA",
+                "CODIGO": "41396"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ALTOS DEL ROSARIO",
+                "CODIGO": "13030"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "RIOSUCIO",
+                "CODIGO": "27615"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "GUADALUPE",
+                "CODIGO": "68320"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PUERTO SANTANDER",
+                "CODIGO": "54553"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "NATAGAIMA",
+                "CODIGO": "73483"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "FLANDES",
+                "CODIGO": "73275"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "BOYACÁ",
+                "CODIGO": "15104"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "VILLA DE LEYVA",
+                "CODIGO": "15407"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CANALETE",
+                "CODIGO": "23090"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CALIMA",
+                "CODIGO": "76126"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PUERTO SANTANDER",
+                "CODIGO": "91669"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "OBANDO",
+                "CODIGO": "76497"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "VIOTÁ",
+                "CODIGO": "25878"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "BELÉN DE UMBRÍA",
+                "CODIGO": "66088"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "OTANCHE",
+                "CODIGO": "15507"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "NEIVA",
+                "CODIGO": "41001"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TARAPACÁ",
+                "CODIGO": "91798"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "LA VIRGINIA",
+                "CODIGO": "66400"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SANTUARIO",
+                "CODIGO": "05697"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "RISARALDA",
+                "CODIGO": "17616"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PLANETA RICA",
+                "CODIGO": "23555"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "BARICHARA",
+                "CODIGO": "68079"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PUERTO TRIUNFO",
+                "CODIGO": "05591"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN ANDRÉS",
+                "CODIGO": "88001"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ALTAMIRA",
+                "CODIGO": "41026"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "FONSECA",
+                "CODIGO": "44279"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "OLAYA",
+                "CODIGO": "05501"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TUBARÁ",
+                "CODIGO": "08832"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "FOMEQUE",
+                "CODIGO": "25279"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ARJONA",
+                "CODIGO": "13052"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "EL ZULIA",
+                "CODIGO": "54261"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "RIOSUCIO",
+                "CODIGO": "17614"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CUMBAL",
+                "CODIGO": "52227"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "BAJO BAUDÓ",
+                "CODIGO": "27077"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "GUARNE",
+                "CODIGO": "05318"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MEDINA",
+                "CODIGO": "25438"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "QUEBRADANEGRA",
+                "CODIGO": "25592"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ALTO BAUDÓ",
+                "CODIGO": "27025"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "QUIBDÓ",
+                "CODIGO": "27001"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ATACO",
+                "CODIGO": "73067"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN FRANCISCO",
+                "CODIGO": "05652"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "HATONUEVO",
+                "CODIGO": "44378"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CHIPAQUE",
+                "CODIGO": "25178"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "COPACABANA",
+                "CODIGO": "05212"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "VILLAGOMEZ",
+                "CODIGO": "25871"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CALIFORNIA",
+                "CODIGO": "68132"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN ALBERTO",
+                "CODIGO": "20710"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "EL BANCO",
+                "CODIGO": "47245"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PRADO",
+                "CODIGO": "73563"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "EL CERRITO",
+                "CODIGO": "76248"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN ANDRÉS",
+                "CODIGO": "05647"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN JOSÉ DEL FRAGUA",
+                "CODIGO": "18610"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "POLONUEVO",
+                "CODIGO": "08558"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SANTA MARTA",
+                "CODIGO": "47001"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MUTATA",
+                "CODIGO": "05480"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "IZA",
+                "CODIGO": "15362"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TIMBIQUÍ",
+                "CODIGO": "19809"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ANCUYÁ",
+                "CODIGO": "52036"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "JUAN DE ACOSTA",
+                "CODIGO": "08372"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ZARZAL",
+                "CODIGO": "76895"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "BOJACÁ",
+                "CODIGO": "25099"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN ANTONIO DE TEQUENDAMA",
+                "CODIGO": "25645"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "EL ÁGUILA",
+                "CODIGO": "76243"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MORELIA",
+                "CODIGO": "18479"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "UNION PANAMERICANA",
+                "CODIGO": "27810"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PISBA",
+                "CODIGO": "15550"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MOSQUERA",
+                "CODIGO": "25473"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SINCÉ",
+                "CODIGO": "70742"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "PAMPLONITA",
+                "CODIGO": "54520"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "MUZO",
+                "CODIGO": "15480"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CHARTA",
+                "CODIGO": "68169"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "REGIDOR",
+                "CODIGO": "13580"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "TARAIRA",
+                "CODIGO": "97666"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN JOSÉ DE LA MONTAÑA",
+                "CODIGO": "05658"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN JACINTO DEL CAUCA",
+                "CODIGO": "13655"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CAROLINA",
+                "CODIGO": "05150"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN PEDRO",
+                "CODIGO": "76670"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "CALDONO",
+                "CODIGO": "19137"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "GACHANTIVÁ",
+                "CODIGO": "15293"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SAN FERNANDO",
+                "CODIGO": "13650"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "BOAVITA",
+                "CODIGO": "15097"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "BARBOSA",
+                "CODIGO": "68077"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "SILVIA",
+                "CODIGO": "19743"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "JERICÓ",
+                "CODIGO": "05368"
+            }
+        },
+        {
+            "attributes": {
+                "NOMBRE": "ROVIRA",
+                "CODIGO": "73624"
+            }
+        }
+    ]
+}

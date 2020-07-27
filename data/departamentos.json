@@ -1,0 +1,221 @@
+{
+    "displayFieldName": "CODIGO",
+    "fieldAliases": {
+        "CODIGO": "CODIGO",
+        "DEPARTAMEN": "DEPARTAMEN"
+    },
+    "fields": [
+        {
+            "name": "CODIGO",
+            "type": "esriFieldTypeString",
+            "alias": "CODIGO",
+            "length": 2
+        },
+        {
+            "name": "DEPARTAMEN",
+            "type": "esriFieldTypeString",
+            "alias": "DEPARTAMEN",
+            "length": 60
+        }
+    ],
+    "features": [
+        {
+            "attributes": {
+                "CODIGO": "68",
+                "DEPARTAMEN": "SANTANDER"
+            }
+        },
+        {
+            "attributes": {
+                "CODIGO": "73",
+                "DEPARTAMEN": "TOLIMA"
+            }
+        },
+        {
+            "attributes": {
+                "CODIGO": "41",
+                "DEPARTAMEN": "HUILA"
+            }
+        },
+        {
+            "attributes": {
+                "CODIGO": "66",
+                "DEPARTAMEN": "RISARALDA"
+            }
+        },
+        {
+            "attributes": {
+                "CODIGO": "19",
+                "DEPARTAMEN": "CAUCA"
+            }
+        },
+        {
+            "attributes": {
+                "CODIGO": "20",
+                "DEPARTAMEN": "CESAR"
+            }
+        },
+        {
+            "attributes": {
+                "CODIGO": "23",
+                "DEPARTAMEN": "CÓRDOBA"
+            }
+        },
+        {
+            "attributes": {
+                "CODIGO": "81",
+                "DEPARTAMEN": "ARAUCA"
+            }
+        },
+        {
+            "attributes": {
+                "CODIGO": "08",
+                "DEPARTAMEN": "ATLÁNTICO"
+            }
+        },
+        {
+            "attributes": {
+                "CODIGO": "05",
+                "DEPARTAMEN": "ANTIOQUIA"
+            }
+        },
+        {
+            "attributes": {
+                "CODIGO": "17",
+                "DEPARTAMEN": "CALDAS"
+            }
+        },
+        {
+            "attributes": {
+                "CODIGO": "18",
+                "DEPARTAMEN": "CAQUETÁ"
+            }
+        },
+        {
+            "attributes": {
+                "CODIGO": "50",
+                "DEPARTAMEN": "META"
+            }
+        },
+        {
+            "attributes": {
+                "CODIGO": "95",
+                "DEPARTAMEN": "GUAVIARE"
+            }
+        },
+        {
+            "attributes": {
+                "CODIGO": "76",
+                "DEPARTAMEN": "VALLE DEL CAUCA"
+            }
+        },
+        {
+            "attributes": {
+                "CODIGO": "85",
+                "DEPARTAMEN": "CASANARE"
+            }
+        },
+        {
+            "attributes": {
+                "CODIGO": "25",
+                "DEPARTAMEN": "CUNDINAMARCA"
+            }
+        },
+        {
+            "attributes": {
+                "CODIGO": "88",
+                "DEPARTAMEN": "ARCHIPIELAGO DE SAN ANDRÉS"
+            }
+        },
+        {
+            "attributes": {
+                "CODIGO": "13",
+                "DEPARTAMEN": "BOLIVAR"
+            }
+        },
+        {
+            "attributes": {
+                "CODIGO": "52",
+                "DEPARTAMEN": "NARIÑO"
+            }
+        },
+        {
+            "attributes": {
+                "CODIGO": "44",
+                "DEPARTAMEN": "LA GUAJIRA"
+            }
+        },
+        {
+            "attributes": {
+                "CODIGO": "94",
+                "DEPARTAMEN": "GUAINÍA"
+            }
+        },
+        {
+            "attributes": {
+                "CODIGO": "91",
+                "DEPARTAMEN": "AMAZONAS"
+            }
+        },
+        {
+            "attributes": {
+                "CODIGO": "54",
+                "DEPARTAMEN": "NORTE DE SANTANDER"
+            }
+        },
+        {
+            "attributes": {
+                "CODIGO": "70",
+                "DEPARTAMEN": "SUCRE"
+            }
+        },
+        {
+            "attributes": {
+                "CODIGO": "11",
+                "DEPARTAMEN": "BOGOTÁ D.C."
+            }
+        },
+        {
+            "attributes": {
+                "CODIGO": "15",
+                "DEPARTAMEN": "BOYACA"
+            }
+        },
+        {
+            "attributes": {
+                "CODIGO": "99",
+                "DEPARTAMEN": "VICHADA"
+            }
+        },
+        {
+            "attributes": {
+                "CODIGO": "27",
+                "DEPARTAMEN": "CHOCÓ"
+            }
+        },
+        {
+            "attributes": {
+                "CODIGO": "97",
+                "DEPARTAMEN": "VAUPES"
+            }
+        },
+        {
+            "attributes": {
+                "CODIGO": "63",
+                "DEPARTAMEN": "QUINDIO"
+            }
+        },
+        {
+            "attributes": {
+                "CODIGO": "47",
+                "DEPARTAMEN": "MAGDALENA"
+            }
+        },
+        {
+            "attributes": {
+                "CODIGO": "86",
+                "DEPARTAMEN": "PUTUMAYO"
+            }
+        }
+    ]
+}
